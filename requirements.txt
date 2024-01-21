@@ -1,0 +1,3 @@
+# requirements.txt
+# Ajoutez ici les bibliothèques externes nécessaires, une par ligne.
+flask
